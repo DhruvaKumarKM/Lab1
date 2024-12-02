@@ -31,4 +31,22 @@ Screenshot of the Running Starter Kit:
 ![overview](https://github.com/user-attachments/assets/72f72bce-bfdb-479e-9bf1-ca72bc7923c9)
 *This is the Overview page of the starter kit running on localhost.
 
+Creating the 'requirements.txt' file
+   - Name the file 'requirements.txt'.
+
+Add Content to the File:
+   - If you’re not using Python, add placeholder text:
+     '# No Python dependencies are required for this project.'
+   - If you’re using Python and have dependencies, list them like this:
+     'Django>=3.2
+     requests>=2.25'
+
+Commit the File:
+   - Add a commit message like: `Added requirements.txt`.
+   - Select Commit directly to the main branch.
+   - Click Commit new file.
+
+
+
+
 
