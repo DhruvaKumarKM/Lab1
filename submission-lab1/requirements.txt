@@ -1,3 +1,18 @@
+Step 1: Clone the Repository: git clone https://github.com/DhruvaKumarKM/notus-js.git
+
+Step 2: Installing Dependencies:
+
+Step 3: Navigate into the project directory: In bash cd
+
+Step 4: Install all required dependencies. If the project uses Node.js, run: In bash npm install
+
+Step 5: Run the Starter Kit Locally:
+
+Step 6: Start the development server: In bash npm start
+
+Step 7: Open your browser and go to 'http://localhost:3000'.
+
+Versions:
 asgiref==3.8.1
 Django==5.1.3
 pillow==11.0.0
